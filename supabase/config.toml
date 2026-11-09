@@ -1,0 +1,5 @@
+project_id = "vokalia"
+
+[functions.voice-token]
+# Authenticated with Supabase Auth in the function to support current signing keys.
+verify_jwt = false
